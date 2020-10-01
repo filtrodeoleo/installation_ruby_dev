@@ -1,5 +1,3 @@
-git clone https://github.com/filtrodeoleo/torghost
-
 cd torghost
 
 chmod +x build.sh
